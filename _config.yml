@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.589599
+  brandStrength: 0.3971697
+  lightness: 0.2342106
+  rhythmicContrast: 0.1968252
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.3383459
+name: robtapella
